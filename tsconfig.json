@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "app/js",
+        "rootDir": "app/ts",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "sourceMap": true
+    },
+    "include": [
+        "app/ts/**/*"
+    ]
+}
