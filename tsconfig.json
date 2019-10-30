@@ -4,8 +4,7 @@
         "outDir": "app/js",
         "rootDir": "app/ts",
         "noEmitOnError": true,
-        "noImplicitAny": true,
-        "sourceMap": true
+        "noImplicitAny": true
     },
     "include": [
         "app/ts/**/*"
